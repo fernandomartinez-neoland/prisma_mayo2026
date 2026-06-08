@@ -1,0 +1,33 @@
+{
+  "name": "prisma",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000r\u0000i\u0000s\u0000m\u0000a\u0000_\u0000m\u0000a\u0000y\u0000o\u00002\u00000\u00002\u00006\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/fernandomartinez-neoland/prisma_mayo2026#readme",
+  "bugs": {
+    "url": "https://github.com/fernandomartinez-neoland/prisma_mayo2026/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandomartinez-neoland/prisma_mayo2026.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@prisma/client": "6.19",
+    "dotenv": "^17.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.2",
+    "prisma": "6.19",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
+  }
+}
